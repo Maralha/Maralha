@@ -1,4 +1,4 @@
-### Ola! Eu sou a Maralha Fonseca 👋
+### Ola! Eu sou Maralha Fonseca 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋
 
 - 🌱 Estudando Analise e desenvolvimento de Sistemas
 - 📫  Contate-me no Email: maralha2003fonseca@gmail.com
@@ -15,9 +15,13 @@
   <img align="center" alt="Maralha-CSS3" height="30" width="40" src="https://user-images.githubusercontent.com/86207236/127777210-8b70341a-6cad-48f4-a74c-f1aa903bc9ec.png">
   <img align="center" alt="Maralha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maralha-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/86207236/127777296-429e7543-3bbf-46ab-b4ff-8d1b465686e4.png">
+   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ally-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
 </div>
   
   ##
+  
+  <h3> 🌐 Redes Sociais: <br></h3>
   
   <div> 
     <a href="https://api.whatsapp.com/send?phone=5511964261148" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
